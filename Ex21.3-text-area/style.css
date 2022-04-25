@@ -1,0 +1,15 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background: rgb(152, 235, 211);
+}
+.container {
+  display: flex;
+  gap: 0.3rem;
+  flex-direction: column;
+}
+
+#textAreaId {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem 0;
+}

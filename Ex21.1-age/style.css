@@ -1,0 +1,13 @@
+/* body {
+  display: flex;
+} */
+
+.container {
+  display: flex;
+  gap: 0.3rem;
+}
+
+h3 {
+  color: rgb(123, 78, 164);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
