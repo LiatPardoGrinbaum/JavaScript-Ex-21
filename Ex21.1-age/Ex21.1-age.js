@@ -6,6 +6,7 @@ document.body.prepend(h3);
 
 input.addEventListener("keyup", (event) => {
   const userInput = event.target.value; // why not input.value?
+  console.log(typeof userInput);
   button.addEventListener("click", function () {
     //need to add input validity conditions!
     answer.textContent = userInput > 18 ? "you can drink appear" : "you’re too young";

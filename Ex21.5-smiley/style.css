@@ -1,0 +1,14 @@
+body {
+  background: rgb(55, 146, 211);
+}
+
+.container {
+  display: flex;
+  gap: 0.3rem;
+}
+
+h3 {
+  font-size: 14px;
+  color: rgb(225, 241, 254);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
